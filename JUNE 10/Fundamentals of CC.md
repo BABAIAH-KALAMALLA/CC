@@ -1,5 +1,5 @@
-FUNDAMENTALS OF CLOUD COMPUTING
-Characteristics of CC 
-    1.On-demand self-service
-    2.Resourse pooling
-    3.Measured service
+# FUNDAMENTALS OF CLOUD COMPUTING <br>
+## Characteristics of CC <br>
+    1.On-demand self-service <br>
+    2.Resourse pooling <br>
+    3.Measured service <br>
